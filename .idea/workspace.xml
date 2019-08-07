@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2605be0-e70f-494b-b6fe-1e3be291b79f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/108391395410076871861534_x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/2416333952.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/5a580ffaN76d3a869.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/5c087db51fcf0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/92ffc18474484fd5946501cf06f70bbe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/a882y4aw12i5oi2iisd5u3y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/b5afe92c75c1347957e11956c0a6a8bf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icardphoto3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icardphoto6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/weibo-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="265">
@@ -40,6 +24,15 @@
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -116,6 +109,7 @@
         <option value="$PROJECT_DIR$/views/blog.ejs" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -234,12 +228,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565214008174</updated>
-      <workItem from="1565214011927" duration="5448000" />
+      <workItem from="1565214011927" duration="5501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5448000" />
+    <option name="totallyTimeSpent" value="5501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -250,11 +244,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -358,6 +352,13 @@
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
